@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+   
+    justify-content: space-evenly;
+}
+
+
+.subcontainer{
+    display: flex;
+    flex-direction: column;
+    
+    
+   
+}
+
+
+.box{
+    font-weight: bold;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    padding: 0px;
+    margin: 15px;
+    border: 1px solid black
+    
+    
+  }
